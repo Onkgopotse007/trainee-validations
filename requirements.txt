@@ -31,4 +31,6 @@ git+https://github.com/botswana-harvard/edc-subject-dashboard.git@develop#egg=ed
 git+https://github.com/botswana-harvard/edc-timepoint.git@develop#egg=edc_timepoint
 git+https://github.com/botswana-harvard/edc-visit-schedule.git@develop#egg=edc_visit_schedule
 git+https://github.com/botswana-harvard/edc-visit-tracking.git@develop#egg=edc_visit_tracking
+python-dotenv~=1.0.1
+
 
